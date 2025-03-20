@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>woodgrove_groceries_api</RootNamespace>
     <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <UserSecretsId>ee357633-37f5-4926-9ab0-347e7ba409d3</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
